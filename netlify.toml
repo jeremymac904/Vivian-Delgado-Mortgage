@@ -16,4 +16,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.tailwindcss.com; connect-src 'self' https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https://viviandelgado.exprealty.com https://*.exprealty.com;"
+    Content-Security-Policy = "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' 'unsafe-eval'; connect-src 'self' https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https://viviandelgado.exprealty.com https://*.exprealty.com;"
