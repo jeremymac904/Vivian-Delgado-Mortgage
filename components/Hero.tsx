@@ -86,8 +86,8 @@ const Hero: React.FC = () => {
             
             <h1 className="text-4xl md:text-6xl font-serif font-bold leading-tight mb-6 hero-logo-glow">
               {locale === 'es'
-                ? 'Hipotecas para compradores primerizos, familias militares, inversionistas y extranjeros'
-                : 'Mortgage strategy for first-time buyers, military families, first responders, and foreign nationals'}
+                ? 'Hipotecas para compradores primerizos, familias militares, primeros respondedores, inversionistas y extranjeros'
+                : 'Mortgage strategy for first-time buyers, military families, first responders, investors, and foreign nationals'}
             </h1>
             
             <p className="text-gray-200 text-lg md:text-xl mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0">
